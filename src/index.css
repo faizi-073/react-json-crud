@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    html {
+      font-family: "Proxima Nova", system-ui, sans-serif;
+    }
+}
+
+.table--head > th{
+    @apply bg-blue-700 text-white text-lg
+}
+
+.table--row >td {
+    @apply text-base
+}
+
+.user--table{
+    @apply w-8/12  !important
+}
