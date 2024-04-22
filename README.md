@@ -3,7 +3,7 @@
 
 ## Here is the application video
 
-[![Watch the video]]([https://youtu.be/vt5fpE0bzSY](https://www.loom.com/share/b396d1337bc0467b8c2aee204b08cdf0?sid=210b17f3-4c9a-49b1-bc24-6c3cfb32c7f7))
+[![Watch the video](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/Loom_logo.png)](https://www.loom.com/share/b396d1337bc0467b8c2aee204b08cdf0?sid=120d574f-ad74-439b-bd5f-ada40ab99ce0)
 
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
